@@ -1,0 +1,9 @@
+<!--pages/userConsole/userConsole.wxml-->
+
+<view>
+  <canvas class='canvas' canvas-id='canvas'></canvas>
+  <view class="wxid">
+    WXID:{{openid}}
+  </view>
+  
+</view>

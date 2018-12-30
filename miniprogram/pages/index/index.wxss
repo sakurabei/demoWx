@@ -1,0 +1,6 @@
+/**index.wxss**/
+
+.userinfo {
+  align-items: center;
+  margin-top:400rpx;
+}
